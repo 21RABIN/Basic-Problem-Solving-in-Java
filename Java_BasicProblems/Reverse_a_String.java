@@ -51,7 +51,7 @@ ____________________________________________________________________________
  *          ^^^^^ 
  *          |||||
  * STRING = RABIN---->length=5  
- *  str.length()-1 ---->5-1 = 4 loop starting From 4th index i--  4-1 3 next loop starting from 3
- *  
- *  
+ *  str.length()-1 ---->5-1 = 4 loop starting From 4th index i--  4-1=3 next loop starting from 3
+ *                            3-1=2 next loop staring from 2  2-1=1 next loop starting from 1  1-1=0 next loop staring from 0
+ *                             0-1=-1 finally -1>=0 condtion false loop exit
 */
