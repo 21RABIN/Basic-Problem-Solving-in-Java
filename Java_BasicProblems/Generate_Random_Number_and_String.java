@@ -1,7 +1,4 @@
 package Java_BasicProblems;
-
-//import Scanner Class
-import java.util.Scanner;
 //import Random Class
 import java.util.Random;
 //import appache commans lang
@@ -9,9 +6,6 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 //Main CLass
 public class Generate_Random_Number_and_String {
-
-	// Creating a a Object sc for Scanner Class
-	static Scanner sc = new Scanner(System.in);
 
 	// Main Function
 	public static void main(String[] args) {
